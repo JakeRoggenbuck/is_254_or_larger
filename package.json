@@ -1,0 +1,22 @@
+{
+  "name": "is_254_or_larger",
+  "version": "1.0.0",
+  "description": "A package that tells you whether a number is 254 or bigger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeRoggenbuck/is_254_or_larger.git"
+  },
+  "keywords": [
+    "254"
+  ],
+  "author": "Jake Roggenbuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeRoggenbuck/is_254_or_larger/issues"
+  },
+  "homepage": "https://github.com/JakeRoggenbuck/is_254_or_larger#readme"
+}
